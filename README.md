@@ -1,1 +1,2 @@
 # LED-Display
+I created this project as a part of my learning journey in React.js, where I referred to online resources such as Google and YouTube playlists for understanding syntax and concepts. Additionally, I used ChatGPT for specific JavaScript and React.js implementations to enhance the functionality and responsiveness of the GUI. While the majority of the work is my own, these references helped me improve and expedite the development process.
